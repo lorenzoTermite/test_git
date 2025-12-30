@@ -1,5 +1,5 @@
 console.log("This is .js"); 
 console.log("This is lorenzo2 .js"); 
 function exampleFunction() {
-    return "Example function executed.";
+    return 0;
 }
